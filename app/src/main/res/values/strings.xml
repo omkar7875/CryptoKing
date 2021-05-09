@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoKing</string>
+    <string name="cryptoking">cryptoking</string>
+    <string name="encryption">encryption</string>
+    <string name="decryption">decryption</string>
+    <string name="decrypter">decrypter</string>
+    <string name="enter_your_text_here">enter_your_text_here</string>
+</resources>
